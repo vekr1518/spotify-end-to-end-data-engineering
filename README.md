@@ -1,4 +1,6 @@
 # Spotify end-to-end-data-engineering
+
+### Introduction
 In this Project, We will build an ETL pipeline using the Spotify API on AWS.The pipeline will retrieve data from the spotify API,transform it to a different format and load it into a AWS data store.
 
 
@@ -10,7 +12,10 @@ In this Project, We will build an ETL pipeline using the Spotify API on AWS.The 
 + **Store files on S3 properly**
 + **Building Analytics Tables on data files using Glue and Athena**
 
-# Services Used:
+### About Dataset/API
+This dataset contains information about music, artist, albums and songs - [Spotify API](https://developer.spotify.com/documentation/web-api/)
+
+# Services Used
 1. **S3 (Simple Storage Service)**
 2. **AWS Lambda**
 3. **Cloudwatch**
