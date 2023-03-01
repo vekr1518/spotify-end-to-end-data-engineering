@@ -13,7 +13,7 @@ In this Project, We will build an ETL pipeline using the Spotify API on AWS.The 
 + **Building Analytics Tables on data files using Glue and Athena**
 
 ### Architecture
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/vekr1518/spotify-end-to-end-data-engineering/blob/main/Architecture.jpg)
 
 ### About Dataset/API
 This dataset contains information about music, artist, albums and songs - [Spotify API](https://developer.spotify.com/documentation/web-api/)
