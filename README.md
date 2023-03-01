@@ -1,4 +1,4 @@
-# spotify-end-to-end-data-engineering
+# Spotify end-to-end-data-engineering
 In this Project, We will build an ETL pipeline using the Spotify API on AWS.The pipeline will retrieve data from the spotify API,transform it to a different format and load it into a AWS data store.
 
 
